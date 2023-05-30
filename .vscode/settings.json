@@ -1,0 +1,13 @@
+{
+    "files.encoding": "utf8",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "markdown.preview.fontSize": 20,
+    "interactiveSession.editor.fontSize": 20,
+    "terminal.integrated.fontSize": 20,
+    "scm.inputFontSize": 20,
+    "debug.console.fontSize": 20,
+    "editor.fontSize": 20
+}
